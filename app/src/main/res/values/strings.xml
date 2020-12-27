@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movie Cataloque</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="Language">Language</string>
+    <string name="delete">Swipe if you want to delete Favorite</string>
+    <string name="empty_content">Empty Content</string>
+    <string name="catalogue_movies">Movie Catalogue</string>
+
+
+    <string name="description" translatable="false">normal description</string>
+
+
+    <string name="name_heroes">Nama Film</string>
+    <string name="lorem">lorem</string>
+    <string name="gambar">Pitcure</string>
+    <string name="add_to_favorite">add to favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_title">search</string>
+    <string name="search_hint">enter search</string>
+    <string name="widget_poster">widget poster</string>
+    <string name="notification_setting">Notification Setting</string>
+    <string name="pref_show_notification_label">Show Daily Remainder</string>
+    <string name="pref_show_notification_label1">Show New Movies</string>
+    <string name="pref_show_false">Notification Off</string>
+    <string name="pref_show_true">Notification On</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_show_notification_key" translatable="false">show_notification</string>
+    <string name="pref_show_notification_key1" translatable="false">show_notification1</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Favourite Movies</string>
+    <string name="tab_text_1" translatable="false">Movie</string>
+    <string name="tab_text_2" translatable="false">TV Show</string>
+
+
+    <string name="name_heroes" translatable="false">Nama Film</string>
+    <string name="lorem" translatable="false">lorem</string>
+    <string name="gambar" translatable="false">Pitcure</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+
+</resources>

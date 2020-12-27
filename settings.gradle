@@ -1,0 +1,2 @@
+include ':app', ':favouritemovies'
+rootProject.name='MovieAdapter2'

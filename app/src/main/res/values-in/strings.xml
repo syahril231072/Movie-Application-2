@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Katalog Film</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="Language">Bahasa</string>
+    <string name="delete">Geser apabila ingin menghapus Favorit</string>
+    <string name="empty_content">Isi Kosong</string>
+    <string name="catalogue_movies">Katalog Film</string>
+
+
+    <string name="name_heroes">Nama Film</string>
+    <string name="lorem">lorem</string>
+
+    <string name="gambar">Poster</string>
+    <string name="add_to_favorite">Tambah Favorit</string>
+    <string name="favorite">Favorit</string>
+
+    <string name="search_title">cari judul</string>
+    <string name="search_hint">tekan cari</string>
+    <string name="widget_poster"> poster widget</string>
+    <string name="notification_setting">Pengaturan Notifikasi</string>
+
+    <string name="pref_show_notification_label">Notifikasi Harian</string>
+    <string name="pref_show_notification_label1">Notifikasi Film Baru</string>
+    <string name="pref_show_false">Notifikasi Mati</string>
+    <string name="pref_show_true">Notifikasi Hidup</string>
+    <string name="action_settings">Pengaturan</string>
+
+</resources>

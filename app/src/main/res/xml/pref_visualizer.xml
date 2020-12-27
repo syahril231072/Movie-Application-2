@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="@bool/show_notification"
+        android:key="@string/pref_show_notification_key"
+        android:summaryOff="@string/pref_show_false"
+        android:summaryOn="@string/pref_show_true"
+        android:title="@string/pref_show_notification_label"
+        android:disableDependentsState="@bool/show_notification"/>
+    <CheckBoxPreference
+        android:defaultValue="@bool/show_notification1"
+        android:key="@string/pref_show_notification_key1"
+        android:summaryOff="@string/pref_show_false"
+        android:summaryOn="@string/pref_show_true"
+        android:title="@string/pref_show_notification_label1" />
+</PreferenceScreen>
